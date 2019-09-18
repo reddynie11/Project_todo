@@ -3,4 +3,4 @@ export const createProject = (project)=>{
         // async code 
         dispatch({type:'CREATE_PROJECT', payload: project});
     }
-}
+};
